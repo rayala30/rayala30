@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Rafael Ayala. I am a new and aspiring software developer with a background in Architecture. I'm currently attending the Tech Elevator Java Development bootcamp. I'm looking to start and collaborate on new projects as I continue my coding journey.
+Hello! My name is Rafael Ayala. I am an experienced New York-based Architect with expertise in architectural design, construction, BIM, 3D Modeling, and computational design. I am transitioning into software engineering to create innovative solutions that transform industries and enhance user experiences. I am passionate about cutting-edge software development and its potential to revolutionize the built environment.
