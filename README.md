@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **rayala30/rayala30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Rafael Ayala. I am an experienced New York-based Architect with expertise in architectural design, construction, BIM, 3D Modeling, and computational design. I am transitioning into software engineering to create innovative solutions that transform industries and enhance user experiences. I am passionate about cutting-edge software development and its potential to revolutionize the built environment.
+👋 Hello! I’m Rafael Ayala — a licensed Architect based in New York with 10+ years of experience in architectural design, BIM, computational design, 3D modeling, construction documentation, and administration.
+
+💻 I specialize in software engineering with expertise in Python, Java, JavaScript, and PostgreSQL — building innovative tools that transform how we design, build, and interact with the built environment.
+
+🏗️ I’ve been involved in developing and deploying digital twin platforms that connect real-world building data with digital models, helping improve building operations, asset management, and lifecycle performance.
+
+🚀 I’m passionate about bridging architecture and technology, crafting solutions that bring clarity, efficiency, and intelligence to complex projects.
